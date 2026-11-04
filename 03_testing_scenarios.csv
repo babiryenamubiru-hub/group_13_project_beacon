@@ -1,0 +1,7 @@
+beacon_id,easting_m,northing_m,condition,construction_activity,flood_exposure,visibility,last_verified,expected_behavior,test_purpose
+TEST-LOW-01,510001.0,100001.0,good,none,low,clear,2026-10-20,Expected low score / LOW priority,All risk factors minimal; date recent.
+TEST-MOD-01,510002.0,100002.0,fair,none,low,clear,2026-10-01,Expected score above the minimal baseline; category depends on age and scoring rules,"Moderate physical condition, otherwise low risk."
+TEST-HIGH-01,510003.0,100003.0,damaged,active,medium,partly_obscured,2025-11-01,Expected elevated score; calculate exact category when run,Several risk factors are present.
+TEST-URGENT-01,510004.0,100004.0,missing,active,high,obscured,2023-11-11,Expected very high score / likely URGENT,Severe combined risk factors.
+TEST-OLD-DATE-01,510005.0,100005.0,good,none,low,clear,2023-01-01,Score should be higher than a comparable recent record,Tests verification-age contribution.
+TEST-DAMAGED-01,510006.0,100006.0,damaged,none,low,clear,2026-10-20,Score should exceed a comparable good-condition record,Tests condition weighting.

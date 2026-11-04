@@ -1,0 +1,14 @@
+field_name,data_type,meaning,requirement,example_or_guidance
+beacon_id,Text,Unique identifier for each beacon,Required,Example: SIM-001
+easting_m,Number,Easting coordinate in metres in the chosen projected CRS,Required by current input format,Example: 512340.50; use valid project coordinates or clearly labelled simulated values
+northing_m,Number,Northing coordinate in metres in the chosen projected CRS,Required by current input format,Example: 104523.20
+coordinate_reference_system,Text,CRS name/code and zone used for coordinates,Recommended for field data,Record the actual CRS; do not guess
+condition,Category,Physical state of the beacon,Required,good / fair / damaged / missing
+construction_activity,Category,Observed construction threat nearby,Required,none / nearby / active
+flood_exposure,Category,Assessed flood exposure,Required,low / medium / high
+visibility,Category,How visible the beacon is,Required,clear / partly_obscured / obscured
+last_verified,Date,Date the beacon was last checked/confirmed,Required for reliable age scoring,YYYY-MM-DD
+observation_date,Date,Date the current observation was made,Recommended,YYYY-MM-DD
+observer_initials,Text,Initials of the person who made the observation,Recommended for field records,Do not publish personal details unnecessarily
+notes,Text,Additional factual notes about the observation,Optional,Avoid conclusions about legal boundaries
+data_source,Category,Identifies where the record came from,Recommended,field / simulated

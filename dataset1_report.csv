@@ -1,0 +1,31 @@
+beacon_id,easting_m,northing_m,condition,construction_activity,flood_exposure,visibility,last_verified,data_source,condition_points,construction_points,flood_points,visibility_points,verification_age_points,verification_age_note,risk_score,priority,recommended_action
+SIM-003,512420.8,104580.1,missing,active,high,obscured,2024-01-10,simulated,30,22,15,10,15,Last verified 1027 days ago,92,URGENT,Arrange a qualified surveyor-led investigation; do not replace based on this score alone.
+SIM-023,513220.1,105180.8,missing,active,high,obscured,2023-11-11,simulated,30,22,15,10,15,Last verified 1087 days ago,92,URGENT,Arrange a qualified surveyor-led investigation; do not replace based on this score alone.
+SIM-010,512700.4,104790.1,damaged,active,high,obscured,2024-06-14,simulated,18,22,15,10,15,Last verified 871 days ago,80,URGENT,Arrange an urgent field assessment by a qualified surveyor.
+SIM-029,513460.7,105360.5,damaged,active,high,obscured,2023-12-15,simulated,18,22,15,10,15,Last verified 1053 days ago,80,URGENT,Arrange an urgent field assessment by a qualified surveyor.
+SIM-013,512820.6,104880.9,missing,nearby,medium,obscured,2025-01-01,simulated,30,12,8,10,10,Last verified 670 days ago,70,URGENT,Arrange a qualified surveyor-led investigation; do not replace based on this score alone.
+SIM-019,513060.2,105060.7,fair,active,high,obscured,2024-03-25,simulated,8,22,15,10,15,Last verified 952 days ago,70,URGENT,Arrange an urgent field assessment by a qualified surveyor.
+SIM-026,513340.2,105270.7,damaged,nearby,high,obscured,2024-08-08,simulated,18,12,15,10,15,Last verified 816 days ago,70,URGENT,Arrange an urgent field assessment by a qualified surveyor.
+SIM-002,512380.2,104550.7,damaged,active,medium,partly_obscured,2025-11-01,simulated,18,22,8,5,10,Last verified 366 days ago,63,HIGH,Schedule a priority field inspection.
+SIM-007,512580.3,104700.2,damaged,nearby,high,partly_obscured,2025-02-03,simulated,18,12,15,5,10,Last verified 637 days ago,60,HIGH,Schedule a priority field inspection.
+SIM-009,512660.1,104760.8,fair,active,medium,obscured,2025-05-20,simulated,8,22,8,10,10,Last verified 531 days ago,58,HIGH,Schedule a priority field inspection.
+SIM-016,512940.1,104970.8,fair,nearby,high,obscured,2024-12-05,simulated,8,12,15,10,10,Last verified 697 days ago,55,HIGH,Schedule a priority field inspection.
+SIM-018,513020.9,105030.4,damaged,nearby,medium,partly_obscured,2025-04-09,simulated,18,12,8,5,10,Last verified 572 days ago,53,HIGH,Schedule a priority field inspection.
+SIM-025,513300.8,105240.4,fair,active,medium,partly_obscured,2025-06-06,simulated,8,22,8,5,10,Last verified 514 days ago,53,HIGH,Schedule a priority field inspection.
+SIM-021,513140.3,105120.2,damaged,active,low,partly_obscured,2025-12-01,simulated,18,22,0,5,5,Last verified 336 days ago,50,HIGH,Schedule a priority field inspection.
+SIM-015,512900.7,104940.5,damaged,none,low,partly_obscured,2025-10-10,simulated,18,0,0,5,10,Last verified 388 days ago,33,MODERATE,Schedule an inspection and continue monitoring.
+SIM-022,513180.7,105150.5,fair,nearby,medium,clear,2026-01-05,simulated,8,12,8,0,5,Last verified 301 days ago,33,MODERATE,Schedule an inspection and continue monitoring.
+SIM-006,512540.6,104670.5,fair,none,medium,partly_obscured,2025-08-12,simulated,8,0,8,5,10,Last verified 447 days ago,31,MODERATE,Schedule an inspection and continue monitoring.
+SIM-028,513420.3,105330.2,fair,none,medium,clear,2025-03-03,simulated,8,0,8,0,10,Last verified 609 days ago,26,MODERATE,Schedule an inspection and continue monitoring.
+SIM-011,512740.8,104820.4,good,nearby,medium,clear,2026-03-01,simulated,0,12,8,0,5,Last verified 246 days ago,25,MODERATE,Schedule an inspection and continue monitoring.
+SIM-017,512980.5,105000.1,good,active,low,clear,2026-06-18,simulated,0,22,0,0,0,Last verified 137 days ago,22,MODERATE,Schedule an inspection and continue monitoring.
+SIM-027,513380.6,105300.9,good,nearby,low,partly_obscured,2026-02-12,simulated,0,12,0,5,5,Last verified 263 days ago,22,MODERATE,Schedule an inspection and continue monitoring.
+SIM-004,512460.1,104610.9,fair,nearby,low,clear,2026-07-15,simulated,8,12,0,0,0,Last verified 110 days ago,20,MODERATE,Schedule an inspection and continue monitoring.
+SIM-012,512780.2,104850.7,fair,none,low,partly_obscured,2025-12-20,simulated,8,0,0,5,5,Last verified 317 days ago,18,LOW,Routine monitoring; verify during the next planned inspection.
+SIM-020,513100.6,105090.9,good,none,medium,clear,2025-09-15,simulated,0,0,8,0,10,Last verified 413 days ago,18,LOW,Routine monitoring; verify during the next planned inspection.
+SIM-014,512860.3,104910.2,good,none,high,clear,2026-08-30,simulated,0,0,15,0,0,Last verified 64 days ago,15,LOW,Routine monitoring; verify during the next planned inspection.
+SIM-005,512500.4,104640.3,good,nearby,low,clear,2026-09-01,simulated,0,12,0,0,0,Last verified 62 days ago,12,LOW,Routine monitoring; verify during the next planned inspection.
+SIM-001,512340.5,104523.2,good,none,low,clear,2026-10-01,simulated,0,0,0,0,0,Last verified 32 days ago,0,LOW,Routine monitoring; verify during the next planned inspection.
+SIM-008,512620.9,104730.6,good,none,low,clear,2026-10-15,simulated,0,0,0,0,0,Last verified 18 days ago,0,LOW,Routine monitoring; verify during the next planned inspection.
+SIM-024,513260.4,105210.1,good,none,low,clear,2026-10-20,simulated,0,0,0,0,0,Last verified 13 days ago,0,LOW,Routine monitoring; verify during the next planned inspection.
+SIM-030,513500.1,105390.8,good,none,low,clear,2026-10-10,simulated,0,0,0,0,0,Last verified 23 days ago,0,LOW,Routine monitoring; verify during the next planned inspection.
